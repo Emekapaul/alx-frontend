@@ -1,0 +1,89 @@
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-about-01_bpgyek_c_scale,w_380.jpg 380w,
+pic-about-01_bpgyek_c_scale,w_935.jpg 935w,
+pic-about-01_bpgyek_c_scale,w_1200.jpg 1200w"
+src="pic-about-01_bpgyek_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-article-01_kzp4mt_c_scale,w_380.jpg 380w,
+pic-article-01_kzp4mt_c_scale,w_856.jpg 856w,
+pic-article-01_kzp4mt_c_scale,w_1200.jpg 1200w"
+src="pic-article-01_kzp4mt_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-article-02_j7cw97_c_scale,w_380.jpg 380w,
+pic-article-02_j7cw97_c_scale,w_859.jpg 859w,
+pic-article-02_j7cw97_c_scale,w_1200.jpg 1200w"
+src="pic-article-02_j7cw97_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-article-03_zozprj_c_scale,w_380.jpg 380w,
+pic-article-03_zozprj_c_scale,w_848.jpg 848w,
+pic-article-03_zozprj_c_scale,w_1200.jpg 1200w"
+src="pic-article-03_zozprj_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-person-01_pyvypg_c_scale,w_380.jpg 380w,
+pic-person-01_pyvypg_c_scale,w_1003.jpg 1003w,
+pic-person-01_pyvypg_c_scale,w_1200.jpg 1200w"
+src="pic-person-01_pyvypg_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-person-02_nl16fd_c_scale,w_380.jpg 380w,
+pic-person-02_nl16fd_c_scale,w_915.jpg 915w,
+pic-person-02_nl16fd_c_scale,w_1200.jpg 1200w"
+src="pic-person-02_nl16fd_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-person-03_otmh38_c_scale,w_380.jpg 380w,
+pic-person-03_otmh38_c_scale,w_892.jpg 892w,
+pic-person-03_otmh38_c_scale,w_1200.jpg 1200w"
+src="pic-person-03_otmh38_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-work-01_dxjufb_c_scale,w_380.jpg 380w,
+pic-work-01_dxjufb_c_scale,w_996.jpg 996w,
+pic-work-01_dxjufb_c_scale,w_1200.jpg 1200w"
+src="pic-work-01_dxjufb_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-work-02_coxuws_c_scale,w_380.jpg 380w,
+pic-work-02_coxuws_c_scale,w_690.jpg 690w,
+pic-work-02_coxuws_c_scale,w_1200.jpg 1200w"
+src="pic-work-02_coxuws_c_scale,w_1200.jpg"
+alt="">
+
+<img
+sizes="(max-width: 3000px) 40vw, 1200px"
+srcset="
+pic-work-03_rxocmq_c_scale,w_380.jpg 380w,
+pic-work-03_rxocmq_c_scale,w_852.jpg 852w,
+pic-work-03_rxocmq_c_scale,w_1200.jpg 1200w"
+src="pic-work-03_rxocmq_c_scale,w_1200.jpg"
+alt="">
